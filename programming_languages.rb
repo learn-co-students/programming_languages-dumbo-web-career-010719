@@ -16,5 +16,4 @@ def reformat_languages(languages)
 
   return new_hash[0].merge(new_hash[1])
 
-
 end
